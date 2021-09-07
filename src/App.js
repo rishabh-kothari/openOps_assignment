@@ -1,4 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.css';
 import Box from './Components/Box';
 import "./App.css"
 import {useState} from 'react'
